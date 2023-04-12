@@ -225,7 +225,7 @@ const Formulario = () => {
       </label>
 
       <label htmlFor="pago" className="block mt-4 text-blue-500 font-bold mb-2">
-        Pago:
+        Costo del Vuelo $:
       </label>
       <input
         type="number"
